@@ -1,0 +1,12 @@
+Firewall01
+  Eth4 -> Router01:Eth2
+
+Router01
+  Eth2 -> Firewall01:Eth4
+
+Switch01
+  Eth1 -> Switch02:Eth3
+
+Switch02
+  Eth3 -> Switch01:Eth1
+

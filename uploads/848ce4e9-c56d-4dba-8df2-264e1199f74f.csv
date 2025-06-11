@@ -1,0 +1,3 @@
+DeviceA Name,DeviceA Port,DeviceB Name,DeviceB Port,DeviceA Building,DeviceA Rack,DeviceA RU,DeviceA Type,DeviceA RackPlatform,DeviceB Building,DeviceB Rack,DeviceB RU,DeviceB Type,DeviceB RackPlatform
+Switch01,Eth1,Switch02,Eth3,B1,R1,12,Switch,Platform1,B1,R3,13,Switch,Platform3
+Router01,Eth2,Firewall01,Eth4,B1,R2,14,Router,Platform2,B1,R4,15,Firewall,Platform4

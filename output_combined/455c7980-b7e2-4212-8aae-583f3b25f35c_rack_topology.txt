@@ -1,0 +1,10 @@
+B1
+  R1 (Platform1)
+    RU 12: Switch01 (Switch)
+  R2 (Platform2)
+    RU 14: Router01 (Router)
+  R3 (Platform3)
+    RU 13: Switch02 (Switch)
+  R4 (Platform4)
+    RU 15: Firewall01 (Firewall)
+
